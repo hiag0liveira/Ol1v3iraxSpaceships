@@ -3,7 +3,7 @@ Esta é uma reformulação do site da SpaceX usando o framework Bootstrap, um fr
 criação de sites responsivos e adequados para dispositivos móveis.
 
 ## ⏯ Começando
-Para visualizar este site, você pode visitar o site ao vivo hospedado em https://hiag0liveira.github.io/Ol1v3irax/ ou clonar este repositório 
+Para visualizar este site, você pode visitar o site ao vivo hospedado em https://hiag0liveira.github.io/Ol1v3iraxSpaceships/ ou clonar este repositório 
 em sua máquina local e abrir index.html em seu navegador da web.
 
 ## 👨‍🎓 Pré-requisitos
